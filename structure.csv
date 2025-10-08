@@ -1,0 +1,9 @@
+field name,english description,russian description,measure,okei_code,format
+Регион,Name of the Region (subject of federation),Наименование региона (субъекта федерации),,,string
+Год,Year,Год,,,int
+Параметр,Name of the indicator,Название индикатора,,,string
+CEPA,Classification according to CEPA,Классификация согласно CEPA,,,string
+Классификатор видов экономической деятельности (ОКВЭД),Classification according to OKVED (type of activity),Классификация вида деятельности согласно ОКВЭД ,,,string
+Источники финансирования,Source of finance,Источник финансирования,,,string
+Сектора деятельности,Classification of the sector of economy (state or all),Классификация сектора экономики (государственный или в целом по экономике),,,string
+Значение,Value of the indicator,Значение индикатора,,,numeric
