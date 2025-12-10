@@ -15,9 +15,10 @@
 В разработке:)
 
 ## Структура репозитория
-- data/ — исходные и подготовленные датасеты
-- notebooks/ — примеры анализа и визуализации
-- README.md — описание проекта
+- data/ — исходные и подготовленные датасеты
+- notebooks/ — примеры анализа и визуализации
+- analysis/ — результаты анализа и отчёты
+- README.md — описание проекта
 
 ## Авторы
 Студенты УрФУ, 2025
@@ -45,7 +46,9 @@ In development:)
 ## Repository Structure
 - data/ — raw and processed datasets
 - notebooks/ — analysis and visualization samples
+- analysis/ — analysis results and reports
 - README.md — project description
+
 
 ## Authors
 UrFU Students, 2025
