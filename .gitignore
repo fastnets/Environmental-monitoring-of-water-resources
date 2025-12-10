@@ -1,6 +1,0 @@
-.git/
-.ipynb_checkpoints/.gitignore
-models/
-notebooks/анализ_датасетов.ipynb
-data/basic_dataset/
-data/*.csv
